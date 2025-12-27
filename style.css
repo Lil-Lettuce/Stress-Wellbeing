@@ -79,3 +79,7 @@ footer {
   font-size: 0.9rem;
   color: #666;
 }
+.school-logo {
+  max-width: 120px;
+  margin-bottom: 10px;
+}
